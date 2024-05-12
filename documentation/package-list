@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/app/[root]/index.html
+$dokka.location://main/#kotlin.Array[kotlin.String]/PointingToDeclaration/app/[root]/main.html
+$dokka.location:/DataMockup///PointingToDeclaration/app/[root]/-data-mockup/index.html
+$dokka.location:/DataMockup/DataMockup/#kotlin.Double#kotlin.Double/PointingToDeclaration/app/[root]/-data-mockup/-data-mockup.html
+$dokka.location:/DataMockup/calculateHeatIndex/#/PointingToDeclaration/app/[root]/-data-mockup/calculate-heat-index.html
+$dokka.location:/DataMockup/getAverage/#/PointingToDeclaration/app/[root]/-data-mockup/get-average.html
+$dokka.location:/DataMockup/getWeatherDescription/#/PointingToDeclaration/app/[root]/-data-mockup/get-weather-description.html
+module:app
+com.example.airqualityapp
+com.example.airqualityapp.ui.gallery
+com.example.airqualityapp.ui.home
+com.example.airqualityapp.ui.slideshow
